@@ -75,8 +75,8 @@
 
 
 <img src="hdi.PNG" width="200"> <img src="hdi2.PNG" width="200"> 
-<img src="xhdi.PNG" width="250"> <img src="xhdi2.PNG" width="250">
+<img src="xhdi.PNG" width="220"> <img src="xhdi2.PNG" width="220">
 
 
-<img src="ui1.PNG" width="200"> <img src="ui2.PNG" width="200"> <img src="ui3.PNG" width="200"> 
+<img src="ui1.PNG" width="220"> <img src="ui2.PNG" width="220">  <img src="ui3.PNG" width="220"> 
 

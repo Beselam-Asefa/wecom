@@ -65,5 +65,5 @@
 ---------------------
 
 
-<img src="hdi.PNG" width="200"> <img src="app/hdi2.PNG" width="200"> 
-<img src="xhdi.PNG" width="250"> <img src="app/xhdi2.PNG" width="250">
+<img src="hdi.PNG" width="200"> <img src="hdi2.PNG" width="200"> 
+<img src="xhdi.PNG" width="250"> <img src="xhdi2.PNG" width="250">

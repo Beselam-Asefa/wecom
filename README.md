@@ -21,11 +21,11 @@
 - The app has a special feature of instant prizing.
 - The app uses both Room and Firebase Firestore for an offline and online data access 
 - The app is build using MVVM architecture 
-- The app uses coroutines for background tasks
+- coroutines for background tasks
 - The app uses Hilt for dependency Injection
-- the app use foregroind service 
-- The app uses location sensor
-- The app is written in Kotlin 
+- foregroind service 
+- location sensor
+- written in Kotlin 
 
 
  

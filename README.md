@@ -26,22 +26,17 @@
 - foreground service 
 - location sensor
 - written in Kotlin 
-
-
- 
+- Instant Prizing    
+- lottie animations 
+- flat icons 
+- Jetpack navigation components  
+- transition animation
+- material design components
+- scrachview for revealing user competition rank 
+-----------------------------------------------
  |  Min SDK Version | Version Name  | SDK Version |
  | ---------------- |:-------------:| ----------  |
  |  23              |  1.0          |      30     |
-
- 
- 
- - Instant Prizing    
- - lottie animations 
- - flat icons 
- - Jetpack navigation components  
- - transition animation
- - material design components
- - scrachview for revealing user competition rank 
 
 
 ---------------------------------------------------------

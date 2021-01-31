@@ -25,8 +25,7 @@
 - The app uses Hilt for dependency Injection
 - foreground service 
 - location sensor
-- written in Kotlin 
-- Instant Prizing    
+- written in Kotlin  
 - lottie animations 
 - flat icons 
 - Jetpack navigation components  

@@ -5,10 +5,9 @@
  ## Discription 
  -------------------------------------------------------
 . This app is a Native android exercise tracking and competition App.
-. the app uses google map API to track users location. 
-. using this app users can track thier exercise, so they will start the app when they begin thier exercise 
-  and at the end or in the while they are exercising they can check thier runing distnace, direction, time ,average speed and the calories they have burned 
-. using the data from thier exercise the App let users to compete with other users in thier cities.
+. using this app users can track thier exercise, so they will start the app when they begin their exercise 
+  and at the end or in the while they are exercising they can check their runing distnace, direction, time ,average speed and the calories they have burned 
+. using the data from their exercise the App let users to compete with other users in thier cities.
 . the app compete users on two categories. the first one is based on the distance they run, so the longer they run the higher probability to be the winner. 
   the second one is based on the total amount of calories burned.
 . everyday the winner board will be reseted, so users can compete to be the day's winner. 

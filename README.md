@@ -23,7 +23,7 @@
 - The app is build using MVVM architecture 
 - coroutines for background tasks
 - The app uses Hilt for dependency Injection
-- foregroind service 
+- foreground service 
 - location sensor
 - written in Kotlin 
 
